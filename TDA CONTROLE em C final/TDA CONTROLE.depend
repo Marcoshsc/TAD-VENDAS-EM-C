@@ -1,0 +1,525 @@
+# depslib dependency file v1.0
+1566370709 source:d:\c\tda controle novo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1566679761 source:d:\c\tda controle em c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"produto.h"
+	"cliente.h"
+	"vendas.h"
+
+1566678378 source:d:\c\tda controle em c\produto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"produto.h"
+
+1566678491 d:\c\tda controle em c\produto.h
+
+1566682242 source:d:\c\tda controle em c\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"cliente.h"
+	"vendas.h"
+	"produto.h"
+
+1566682347 d:\c\tda controle em c\cliente.h
+	"produto.h"
+	"registroVenda.h"
+
+1566682347 d:\c\tda controle em c\registrovenda.h
+	"produto.h"
+
+1566682347 d:\c\tda controle em c\vendas.h
+	"cliente.h"
+	"produto.h"
+	"registroVenda.h"
+
+1566682242 source:d:\c\tda controle em c\vendas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"vendas.h"
+	"produto.h"
+	"cliente.h"
+
+1566682244 source:f:\aeds programa\tda controle em c\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"cliente.h"
+	"vendas.h"
+	"produto.h"
+
+1566682348 f:\aeds programa\tda controle em c\cliente.h
+	"produto.h"
+	"registroVenda.h"
+
+1566678492 f:\aeds programa\tda controle em c\produto.h
+
+1566682348 f:\aeds programa\tda controle em c\registrovenda.h
+	"produto.h"
+
+1566682348 f:\aeds programa\tda controle em c\vendas.h
+	"cliente.h"
+	"produto.h"
+	"registroVenda.h"
+
+1566679762 source:f:\aeds programa\tda controle em c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"produto.h"
+	"cliente.h"
+	"vendas.h"
+
+1566678380 source:f:\aeds programa\tda controle em c\produto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"produto.h"
+
+1566682244 source:f:\aeds programa\tda controle em c\vendas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"vendas.h"
+	"produto.h"
+	"cliente.h"
+
+1566682244 source:c:\users\10732807646\documents\tda controle em c\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"cliente.h"
+	"vendas.h"
+	"produto.h"
+
+1566961678 c:\users\10732807646\documents\tda controle em c\cliente.h
+	<stdlib.h>
+	<stdio.h>
+	"produto.h"
+	"registroVenda.h"
+
+1566961678 c:\users\10732807646\documents\tda controle em c\produto.h
+	<stdlib.h>
+	<stdio.h>
+
+1566961678 c:\users\10732807646\documents\tda controle em c\registrovenda.h
+	<stdlib.h>
+	<stdio.h>
+	"produto.h"
+
+1566961678 c:\users\10732807646\documents\tda controle em c\vendas.h
+	<stdlib.h>
+	<stdio.h>
+	"cliente.h"
+	"produto.h"
+	"registroVenda.h"
+
+1566679762 source:c:\users\10732807646\documents\tda controle em c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"produto.h"
+	"cliente.h"
+	"vendas.h"
+
+1566678380 source:c:\users\10732807646\documents\tda controle em c\produto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"produto.h"
+
+1566941296 source:c:\users\10732807646\documents\tda controle em c\vendas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"vendas.h"
+	"produto.h"
+	"cliente.h"
+
+1568526737 source:d:\c\tda controle em c novo\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"cliente.h"
+
+1568523059 d:\c\tda controle em c novo\cliente.h
+	<stdlib.h>
+	<stdio.h>
+	"complementares.h"
+
+1568523059 d:\c\tda controle em c novo\produto.h
+	<stdlib.h>
+	<stdio.h>
+	"cliente.h"
+
+1567219843 d:\c\tda controle em c novo\registrovenda.h
+	<stdlib.h>
+	<stdio.h>
+	"complementares.h"
+
+1568523059 d:\c\tda controle em c novo\vendas.h
+	<stdlib.h>
+	<stdio.h>
+	"produto.h"
+
+1568525172 source:d:\c\tda controle em c novo\vendas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"vendas.h"
+
+1568525293 source:d:\c\tda controle em c novo\produto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"produto.h"
+
+1568528860 source:d:\c\tda controle em c novo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"menu.h"
+
+1568649412 source:f:\aeds programa\tda controle em c novo\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"cliente.h"
+
+1568523060 f:\aeds programa\tda controle em c novo\cliente.h
+	<stdlib.h>
+	<stdio.h>
+	"complementares.h"
+
+1568523060 f:\aeds programa\tda controle em c novo\produto.h
+	<stdlib.h>
+	<stdio.h>
+	"cliente.h"
+
+1566961680 f:\aeds programa\tda controle em c novo\registrovenda.h
+	<stdlib.h>
+	<stdio.h>
+	"produto.h"
+
+1568523060 f:\aeds programa\tda controle em c novo\vendas.h
+	<stdlib.h>
+	<stdio.h>
+	"produto.h"
+
+1567058904 source:f:\aeds programa\tda controle em c novo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"produto.h"
+	"cliente.h"
+	"vendas.h"
+
+1568649412 source:f:\aeds programa\tda controle em c novo\produto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"produto.h"
+
+1568649412 source:f:\aeds programa\tda controle em c novo\vendas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"vendas.h"
+
+1567215817 source:c:\users\10732807646\documents\tda controle em c novo\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"vendas.h"
+
+1567217895 c:\users\10732807646\documents\tda controle em c novo\cliente.h
+	<stdlib.h>
+	<stdio.h>
+	"produto.h"
+	"registroVenda.h"
+
+1567217682 c:\users\10732807646\documents\tda controle em c novo\produto.h
+	<stdlib.h>
+	<stdio.h>
+	"complementares.h"
+
+1567217568 c:\users\10732807646\documents\tda controle em c novo\registrovenda.h
+	<stdlib.h>
+	<stdio.h>
+	"complementares.h"
+
+1567217728 c:\users\10732807646\documents\tda controle em c novo\vendas.h
+	<stdlib.h>
+	<stdio.h>
+	"cliente.h"
+
+1567057050 source:c:\users\10732807646\documents\tda controle em c novo\produto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"produto.h"
+
+1567215817 source:c:\users\10732807646\documents\tda controle em c novo\vendas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"vendas.h"
+
+1567214457 source:c:\users\10732807646\documents\tda controle em c novo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"produto.h"
+	"cliente.h"
+	"vendas.h"
+
+1567217568 c:\users\10732807646\documents\tda controle em c novo\complementares.h
+	<stdlib.h>
+	<stdio.h>
+
+1568523059 d:\c\tda controle em c novo\complementares.h
+	<stdlib.h>
+	<stdio.h>
+
+1568767758 source:e:\aeds programa\tda controle em c novo\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"cliente.h"
+
+1568523060 e:\aeds programa\tda controle em c novo\vendas.h
+	<stdlib.h>
+	<stdio.h>
+	"produto.h"
+
+1568523060 e:\aeds programa\tda controle em c novo\cliente.h
+	<stdlib.h>
+	<stdio.h>
+	"complementares.h"
+
+1568523060 e:\aeds programa\tda controle em c novo\produto.h
+	<stdlib.h>
+	<stdio.h>
+	"cliente.h"
+
+1568523060 e:\aeds programa\tda controle em c novo\complementares.h
+	<stdlib.h>
+	<stdio.h>
+
+1567219844 e:\aeds programa\tda controle em c novo\registrovenda.h
+	<stdlib.h>
+	<stdio.h>
+	"complementares.h"
+
+1568767892 source:e:\aeds programa\tda controle em c novo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"menu.h"
+
+1568649412 source:e:\aeds programa\tda controle em c novo\vendas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"vendas.h"
+
+1568649412 source:e:\aeds programa\tda controle em c novo\produto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"produto.h"
+
+1568526590 d:\c\tda controle em c novo\menu.h
+	"vendas.h"
+
+1568526690 source:d:\c\tda controle em c novo\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"menu.h"
+
+1568523060 f:\aeds programa\tda controle em c novo\complementares.h
+	<stdlib.h>
+	<stdio.h>
+
+1568526592 e:\aeds programa\tda controle em c novo\menu.h
+	"vendas.h"
+
+1568649474 source:e:\aeds programa\tda controle em c novo\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"menu.h"
+
+1568767758 source:e:\aeds programa\tda controle em c final\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"cliente.h"
+
+1568523060 e:\aeds programa\tda controle em c final\cliente.h
+	<stdlib.h>
+	<stdio.h>
+	"complementares.h"
+
+1568523060 e:\aeds programa\tda controle em c final\complementares.h
+	<stdlib.h>
+	<stdio.h>
+
+1568768450 source:e:\aeds programa\tda controle em c final\produto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"produto.h"
+
+1568523060 e:\aeds programa\tda controle em c final\produto.h
+	<stdlib.h>
+	<stdio.h>
+	"cliente.h"
+
+1568649412 source:e:\aeds programa\tda controle em c final\vendas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"vendas.h"
+
+1569383274 e:\aeds programa\tda controle em c final\vendas.h
+	<stdlib.h>
+	<stdio.h>
+	"produto.h"
+
+1569384318 source:e:\aeds programa\tda controle em c final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"menu.h"
+
+1569384318 e:\aeds programa\tda controle em c final\menu.h
+	"vendas.h"
+
+1569384394 source:e:\aeds programa\tda controle em c final\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"menu.h"
+	"prova.h"
+
+1569383274 e:\aeds programa\tda controle em c final\prova.h
+	"vendas.h"
+
+1569384422 source:e:\aeds programa\tda controle em c final\prova.c
+	<stdio.h>
+	<stdlib.h>
+	"prova.h"
+
+1568767758 source:d:\c\tda controle prova\tda controle em c final\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"cliente.h"
+
+1568523060 d:\c\tda controle prova\tda controle em c final\cliente.h
+	<stdlib.h>
+	<stdio.h>
+	"complementares.h"
+
+1568523060 d:\c\tda controle prova\tda controle em c final\complementares.h
+	<stdlib.h>
+	<stdio.h>
+
+1569559906 source:d:\c\tda controle prova\tda controle em c final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"menu.h"
+
+1569559906 d:\c\tda controle prova\tda controle em c final\menu.h
+	"vendas.h"
+
+1569383274 d:\c\tda controle prova\tda controle em c final\vendas.h
+	<stdlib.h>
+	<stdio.h>
+	"produto.h"
+
+1568523060 d:\c\tda controle prova\tda controle em c final\produto.h
+	<stdlib.h>
+	<stdio.h>
+	"cliente.h"
+
+1568768450 source:d:\c\tda controle prova\tda controle em c final\produto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"produto.h"
+
+1568649412 source:d:\c\tda controle prova\tda controle em c final\vendas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"vendas.h"
+
+1569563962 source:d:\c\tda controle prova\tda controle em c final\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"menu.h"
+	"prova.h"
+
+1569564163 d:\c\tda controle prova\tda controle em c final\prova.h
+	"vendas.h"
+
+1569563962 source:d:\c\tda controle prova\tda controle em c final\prova.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"prova.h"
+
